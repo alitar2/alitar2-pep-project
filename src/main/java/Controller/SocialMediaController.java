@@ -6,7 +6,6 @@ import Model.Account;
 import Model.Message;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import java.util.List;
 import io.javalin.Javalin;
 import io.javalin.http.Context;
 
